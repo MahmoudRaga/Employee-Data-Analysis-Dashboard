@@ -1,5 +1,7 @@
 # Employee Report Dashboard
-![Description of Image](./Employee-Data-Analysis-Dashboard/Picture1.png)
+![Description of Image](.//blob/main)
+![](https://github.com/MahmoudRaga/Employee-Data-Analysis-Dashboard/Picture1.png)
+
 ## Description
 This project is an interactive dashboard designed using Power BI to analyze employee performance and provide strategic insights to enhance administrative processes. The report presents employee data in an easy-to-understand visual format, enabling decision-makers to take informed actions.
 
